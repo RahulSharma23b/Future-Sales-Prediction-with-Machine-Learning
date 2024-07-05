@@ -11,6 +11,7 @@ let’s visualize the relationship between the amount spent on advertising on ra
 ![Screenshot 2024-07-05 191700](https://github.com/RahulSharma23b/Future-Sales-Prediction-with-Machine-Learning/assets/92786939/e92dc499-bc7b-44a7-bad9-d4da2a1507df)
 
 #Model
+![Screenshot 2024-07-05 191758](https://github.com/RahulSharma23b/Future-Sales-Prediction-with-Machine-Learning/assets/92786939/70471999-af10-40ac-aeb8-63cf6810c367)
 
 
-![Uploading Screenshot 2024-07-05 191758.png…]()
+
